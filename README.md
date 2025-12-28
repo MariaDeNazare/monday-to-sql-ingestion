@@ -55,3 +55,9 @@ Em cenários reais, a ingestão pode ser expandida com:
 Demonstrar capacidade técnica em engenharia de dados,
 com foco em integração de sistemas, automação e persistência de dados.
 
+## Próximos passos
+- Implementar paginação por cursor
+- Adicionar controle de duplicidade
+- Orquestrar execução via pipeline (ex: Azure DevOps)
+
+
